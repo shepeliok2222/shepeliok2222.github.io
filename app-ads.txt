@@ -1302,6 +1302,7 @@ google.com, pub-7022579750037037, DIRECT, f08c47fec0942fa0
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-9041187040625593, DIRECT, f08c47fec0942fa0
 #=== AudienceNetwork
+facebook.com, 1210467953459280, DIRECT, c3e20eee3f780d68
 facebook.com, 805069172997110, DIRECT, c3e20eee3f780d68
 facebook.com, 1081332032712445, DIRECT, c3e20eee3f780d68
 #=== Pangle Dec 19, 2023
@@ -2027,7 +2028,7 @@ signifad.com, 9043507172, RESELLER
 silvermob.com, 464, RESELLER
 singularads.com, 548745, RESELLER
 smaato.com, 1100057628, DIRECT, 07bcf65f187117b4
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
 smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
 smaato.com, 1100044156, RESELLER, 07bcf65f187117b4
@@ -2940,7 +2941,7 @@ monetixads.com, mix-pub-3646219662, RESELLER, uufps1dh5stc6euk
 myfeature.tv, 18cVUEPSLWPyXYmMQwgw, RESELLER
 odeeo.io, 134207762, RESELLER, 36cfd73091d5c3fc
 olaex.biz, 100008, RESELLER
-onetag.com, 82e44d118b79600, RESELLER
+onetag.com, 82e44d118b79600, DIRECT
 onetag.com, 8dac5efb6c952da, RESELLER
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 opera.com, pub6739463379776, RESELLER, 55a0c5fd61378de3
