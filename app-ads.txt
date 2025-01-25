@@ -1536,7 +1536,7 @@ ssp.zetaglobal.net, 815, RESELLER
 appnexus.com,16903,RESELLER,f5ab79cb980f11d1
 
 #
-# CAS.ai Updated Jan 10, 2025
+# CAS.ai Updated Jan 24, 2025
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Jan 10, 2025
@@ -4415,7 +4415,7 @@ zmaticoo.com, 114122, RESELLER
 smaato.com, 1100057426, DIRECT, 07bcf65f187117b4
 advangelists.com, 9766527f2b5d3e95d4a733fcfb77bd7e, RESELLER, 60d26397ec060f98
 thunder-monetize.com, 1252316774, RESELLER
-#=== AdInMo Jan 17, 2025
+#=== AdInMo Jan 24, 2025
 adinmo.com, 7db28bb2429a4f25b95905c79f1e13b2, DIRECT, c90e99bca95e8939
 152media.info, 152M966, RESELLER
 152media.info, 152M987, RESELLER
@@ -4434,7 +4434,6 @@ adagio.io, 1221, RESELLER
 adbite.com, 212427, DIRECT
 adbite.com, 202171, RESELLER
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
-adform.com, 2904, DIRECT, 9f5210a2f0999e32
 adform.com, 1512, RESELLER, 9f5210a2f0999e32
 adform.com, 1942, RESELLER, 9f5210a2f0999e32
 adform.com, 2845, RESELLER, 9f5210a2f0999e32
@@ -4479,6 +4478,7 @@ appnexus.com, 14808, DIRECT, f5ab79cb980f11d1
 appnexus.com, 15799, DIRECT, f5ab79cb980f11d1
 appnexus.com, 3567, DIRECT, f5ab79cb980f11d1
 appnexus.com, 7582, DIRECT, f5ab79cb980f11d1
+appnexus.com, 11111, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11642, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12039, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13346, RESELLER, f5ab79cb980f11d1
@@ -4525,7 +4525,6 @@ contextweb.com, 562826, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562836, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562867, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563525, RESELLER, 89ff185a4c4e857c
-conversantmedia.com, 100254, DIRECT, 03113cd04947736d
 conversantmedia.com, 100087, DIRECT, 03113cd04947736d
 conversantmedia.com, 100141, RESELLER, 03113cd04947736d
 conversantmedia.com, 100683, RESELLER, 03113cd04947736d
@@ -4534,6 +4533,7 @@ criteo.com, B-059025, DIRECT, 9fac4a4a87c2a44f
 criteo.com, B-071800, DIRECT, 9fac4a4a87c2a44f
 crystall.io, 311612, DIRECT
 danoler.com, 170853, RESELLER, 5d24754b175j2mde
+datacygnal.io, 201197, RESELLER
 didna.io, 494n1p24006p, DIRECT
 didna.io, 494n1p17224a, RESELLER
 display.io, 173162, DIRECT
@@ -4582,10 +4582,10 @@ hindsightsolutions.net, 323-b5571, RESELLER, 20e30b2ae1f670f2
 iion.io, 10071, RESELLER, 013a29748465dc57
 iion.io, 10162, RESELLER, 013a29748465dc57
 imds.tv, 82130, RESELLER, ae6c32151e71f19d
-improvedigital.com, 2174, RESELLER
 improvedigital.com, 1461, RESELLER
 improvedigital.com, 1623, RESELLER
 improvedigital.com, 1785, RESELLER
+improvedigital.com, 2174, RESELLER
 improvedigital.com, 2226, RESELLER
 improvedigital.com, 22297, RESELLER
 improvedigital.com, 2233, RESELLER
@@ -4598,6 +4598,7 @@ indexexchange.com, 190532, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 208414, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 18eb7cf877c0416f997665697dceb723, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 8f6a92b950834203a6df4fcd1c4a860f, DIRECT, 83e75a7ae333ca9d
+inmobi.com, 19c2d64f068541e7a796cf6f89ce29a8, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 1aa93c313c0f4e8aacd4791149f0feb9, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 3ca759d83a3d457d9769a381d4d300a8, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 414b8dbbe3a64ff4b6b1e72e116fd296, RESELLER, 83e75a7ae333ca9d
@@ -4609,8 +4610,8 @@ instreamatic.com, 106, RESELLER
 instreamatic.com, 132, RESELLER
 integralstream.com, 2, RESELLER
 kiviads.com, AJxF6R32a9M6CaTvK, RESELLER
-krushmedia.com, AJxF6R64a9M6CaTvK, RESELLER
 krushmedia.com, AJxF6R614a9M6CaTvK, RESELLER
+krushmedia.com, AJxF6R64a9M6CaTvK, RESELLER
 lijit.com, 224984, DIRECT, fafdf38b16bf6b2b
 lijit.com, 467506, DIRECT, fafdf38b16bf6b2b
 lijit.com, 480899, DIRECT, fafdf38b16bf6b2b
@@ -4657,12 +4658,12 @@ nobid.io, 50603, RESELLER
 ogury.com, e91052177a44df900ef9977b4b8314fe, RESELLER
 oko.uk, 0f8774e2-84c4-461a-a2ee-a66bda6ca0bf, DIRECT, b3511ffcafb23a32
 omnifytv.com, 1133aea857844a518c6eedab3c1eecd0, RESELLER
+onetag.com, 5d0d72448d8bfb0, DIRECT, 0bfd66d529a55807
 onetag.com, 5d44158b3dca4a2, DIRECT, 0bfd66d529a55807
 onetag.com, 63cef4c722237f4, DIRECT, 0bfd66d529a55807
 onetag.com, 79e56da0ef03b0a, DIRECT, 0bfd66d529a55807
 onetag.com, 79e56da0ef03b0a-OB, DIRECT, 0bfd66d529a55807
 onetag.com, 8d212a236d74220, DIRECT, 0bfd66d529a55807
-onetag.com, 5d0d72448d8bfb0, DIRECT, 0bfd66d529a55807
 onetag.com, 69f48c2160c8113, RESELLER, 0bfd66d529a55807
 onetag.com, 75a1922f904cc20, RESELLER, 0bfd66d529a55807
 onetag.com, 775964f987238d8, RESELLER, 0bfd66d529a55807
@@ -4685,8 +4686,8 @@ openx.com, 540170114, RESELLER, 6a698e2ec38604c6
 openx.com, 560864917, RESELLER, 6a698e2ec38604c6
 opera.com, pub9444595008384, DIRECT, 55a0c5fd61378de3
 opera.com, pub5296098761088, RESELLER, 55a0c5fd61378de3
-peak226.com, 12903, RESELLER
 peak226.com, 12904, DIRECT
+peak226.com, 12903, RESELLER
 playdigo.com, 1992, RESELLER, 92011346d63d3c30
 pubmatic.com, 163800, DIRECT, 5d62403b186f2ace
 pubmatic.com, 163869, DIRECT, 5d62403b186f2ace
@@ -4773,13 +4774,12 @@ sharethrough.com, 2f18331a, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, LNtcDgIM, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, MAC8ESmG, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, RW32FhkD, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, vQPyRXGt, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100049696, DIRECT, 07bcf65f187117b4
 smaato.com, 1100049932, DIRECT, 07bcf65f187117b4
-smaato.com, 1100055204, DIRECT, 07bcf65f187117b4
 smaato.com, 1100055641, DIRECT, 07bcf65f187117b4
 smaato.com, 1100057154, DIRECT, 07bcf65f187117b4
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100044650, RESELLER, 07bcf65f187117b4
 smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
 smartadserver.com, 3172, DIRECT, 060d053dcf45cbf3
@@ -4830,9 +4830,10 @@ toucanads.io, c042f4db68f23406c6cecf84a7ebb0fe32786, RESELLER
 tremorhub.com, p4dt2-jhelk, RESELLER, 1a4e959a1b50034a
 triplelift.com, 10252, DIRECT, 6c33edb13117fd86
 triplelift.com, 10252-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 10389, DIRECT, 6c33edb13117fd86
+triplelift.com, 10389-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 7526, DIRECT, 6c33edb13117fd86
 triplelift.com, 7613, DIRECT, 6c33edb13117fd86
-triplelift.com, 8446, DIRECT, 6c33edb13117fd86
 triplelift.com, 10504, RESELLER, 6c33edb13117fd86
 triplelift.com, 12503, RESELLER, 6c33edb13117fd86
 triplelift.com, 13010, RESELLER, 6c33edb13117fd86
